@@ -5,7 +5,7 @@
 |:--|---|--:|
 |Привет|Андрей|ту туду ту|
 
-![если вы хотите увидеть человека кто за этим стоит вы можете нажать сюда](https://photos.app.goo.gl/mtRCD9M6LU5vgH5s7)
+![если вы хотите увидеть человека кто за этим стоит вы можете нажать сюда](https://lh3.googleusercontent.com/7qdyfsV9MYn3PfmdyCBkuQG_1nvsldGgBhweeZVFUwfz_ngiNhEPQdf_cN7ArN-J7ZCbOIjyRv5SMHSwYFRPbiHF85oonYY7hnh6Hozm8-I79hZUbTRCNfw8a9RwPVeNpF6vmo9qQn93mI209YHse_rIsOME6pfPJvFg6fJP2eqSrOuUP1lkQLyihkxRVHvZMy0E2pa1AesDhtG1tesGdsyFtkCr1fzhVDBFsKCymOcNhFSyRRi8j4jkNSpxPMuyl6tNazwT1CWPEpbchCphP1hACGen1gKSxglNZ-Ng9uKmbCtbXOnb6NhEBAyLPO6YsWPHneNNMPTMu-xC_0mUdLGTPz9lKKpS07ybHTFXR8p6TiZZxwhZ0uJIwCWvZmZtLZC3g-xRyIzEhhrocMYbxEVzdvFJAzLxXPFLTgUAm7b5Ltxy-OKmfxsSBHCZpF0b04zfEbj4Qx6bzgbmT2r_cSEe8l7vXrb8yndaLNKmt_P85EJNcD21itRAEddnMzlOHWr0s-aaUJFrVogYAPXR4fNNYe-aOHUBsv9rf7Uss9xZVRFgdr2wuBMseCl1cywugHOn6-Kb6eH6TVpUZsxW2054gayuBRLwuaFDh6VruIMjhE_CVxosa0aExEQgC8H_sBY9E8LEDULNA6qBYqrio29YpMELRs_HAEFk9Q-mdYQNo9FDVKCD-Wyt0xYcuv-wdzY03DPRyG38GwfrWdvI8EqmYdJ0BNeuGN6oACK6m2uiKbksjpiuPDOeSr1E=w754-h1005-no?authuser=0)
 
 ```python
 print("test")
